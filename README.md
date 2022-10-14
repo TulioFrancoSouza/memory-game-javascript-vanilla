@@ -13,7 +13,7 @@ Note ✋:   you can use the packages yarn or npm to run the project
 
 Steps to run:
 
-Download the zip project or execute in the terminal: https://github.com/tuliofrancosouza/memory-game
+Download the zip project or execute in the terminal:[ https://github.com/tuliofrancosouza/memory-game](https://github.com/TulioFrancoSouza/memory-game-javascript-vanilla)
 
 Open the folder in the terminal: cd memory-game
 
@@ -24,7 +24,3 @@ Techs 🚀
 HTML
 Javascript
 CSS
-
-Author tic-computer-icon
-GitHub: tuliofrancosouza :octocat:
-LinkedIn: tuliofrancodesouza linkedin-icon
