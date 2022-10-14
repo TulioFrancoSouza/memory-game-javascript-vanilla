@@ -25,9 +25,6 @@ HTML
 Javascript
 CSS
 
-
 Author tic-computer-icon
 GitHub: tuliofrancosouza :octocat:
 LinkedIn: tuliofrancodesouza linkedin-icon
-
-Thanks for your support :shipit:
